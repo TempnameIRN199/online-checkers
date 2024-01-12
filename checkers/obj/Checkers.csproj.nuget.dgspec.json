@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\Checkers.csproj": {}
+    "C:\\adsdadsdadas\\cheche\\checkers\\Checkers.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\Checkers.csproj": {
+    "C:\\adsdadsdadas\\cheche\\checkers\\Checkers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\Checkers.csproj",
+        "projectUniqueName": "C:\\adsdadsdadas\\cheche\\checkers\\Checkers.csproj",
         "projectName": "Checkers",
-        "projectPath": "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\Checkers.csproj",
-        "packagesPath": "C:\\Users\\vitya\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\obj\\",
+        "projectPath": "C:\\adsdadsdadas\\cheche\\checkers\\Checkers.csproj",
+        "packagesPath": "C:\\Users\\Семён\\.nuget\\packages\\",
+        "outputPath": "C:\\adsdadsdadas\\cheche\\checkers\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vitya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

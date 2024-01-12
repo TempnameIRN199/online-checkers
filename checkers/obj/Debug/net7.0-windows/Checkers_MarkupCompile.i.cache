@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Coding\Learn\NP\CumShot\online-checkers\checkers\obj\Debug\net7.0-windows\
+C:\adsdadsdadas\cheche\checkers\obj\Debug\net7.0-windows\
 Checkers
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-D:\Coding\Learn\NP\CumShot\online-checkers\checkers\App.xaml
+C:\adsdadsdadas\cheche\checkers\App.xaml
 6-19259719
 
 21-1722892125
 198-1448991843
 Controls\Board.xaml;Controls\BoardCell.xaml;Controls\BoardPiece.xaml;Controls\IPWindow.xaml;Controls\MainMenu.xaml;MainWindow.xaml;
 
-False
+True
 
