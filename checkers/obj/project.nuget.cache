@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9XA9dusK0Nfh55a/DQxJtDzuirSC2zMrm1WsFV18D5JhhFm7gYBt0nepYMzTBYn2kc0MNlWGsqpgrw9vXZ/CA==",
+  "dgSpecHash": "V915yBRUXJqiPNU+Nmqyl1oMasXn5lXa0s5P8uczg7yY31xAbIKEt2/CXTdIg9QbSDkGJ1Mu54p1HHAy5b9F6Q==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\Learn\\NP\\CumShot\\checkers\\Checkers.csproj",
+  "projectFilePath": "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\Checkers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

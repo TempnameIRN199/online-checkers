@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\Learn\\NP\\CumShot\\checkers\\Checkers.csproj",
+      "projectUniqueName": "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\Checkers.csproj",
       "projectName": "Checkers",
-      "projectPath": "D:\\Coding\\Learn\\NP\\CumShot\\checkers\\Checkers.csproj",
+      "projectPath": "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\Checkers.csproj",
       "packagesPath": "C:\\Users\\vitya\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\Learn\\NP\\CumShot\\checkers\\obj\\",
+      "outputPath": "D:\\Coding\\Learn\\NP\\CumShot\\online-checkers\\checkers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
