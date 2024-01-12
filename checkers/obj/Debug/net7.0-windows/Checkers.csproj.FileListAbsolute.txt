@@ -1,0 +1,90 @@
+E:\Checkers\bin\Debug\net7.0-windows\Checkers.exe
+E:\Checkers\bin\Debug\net7.0-windows\Checkers.deps.json
+E:\Checkers\bin\Debug\net7.0-windows\Checkers.runtimeconfig.json
+E:\Checkers\bin\Debug\net7.0-windows\Checkers.dll
+E:\Checkers\bin\Debug\net7.0-windows\Checkers.pdb
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.csproj.AssemblyReference.cache
+E:\Checkers\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Checkers\obj\Debug\net7.0-windows\App.g.cs
+E:\Checkers\obj\Debug\net7.0-windows\Checkers_MarkupCompile.cache
+E:\Checkers\obj\Debug\net7.0-windows\Checkers_MarkupCompile.lref
+E:\Checkers\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.g.resources
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfoInputs.cache
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfo.cs
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.csproj.CoreCompileInputs.cache
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.dll
+E:\Checkers\obj\Debug\net7.0-windows\refint\Checkers.dll
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.pdb
+E:\Checkers\obj\Debug\net7.0-windows\Checkers.genruntimeconfig.cache
+E:\Checkers\obj\Debug\net7.0-windows\ref\Checkers.dll
+E:\Checkers\obj\Debug\net7.0-windows\Controls\MainMenu.baml
+E:\Checkers\obj\Debug\net7.0-windows\Controls\MainMenu.g.cs
+E:\Checkers\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Checkers\obj\Debug\net7.0-windows\Controls\Board.baml
+E:\Checkers\obj\Debug\net7.0-windows\Controls\Board.g.cs
+E:\Checkers\obj\Debug\net7.0-windows\Controls\BoardCell.baml
+E:\Checkers\obj\Debug\net7.0-windows\Controls\BoardCell.g.cs
+E:\Checkers\obj\Debug\net7.0-windows\Controls\BoardPiece.baml
+E:\Checkers\obj\Debug\net7.0-windows\Controls\BoardPiece.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\bin\Debug\net7.0-windows\Checkers.exe
+C:\Users\Xom41k\Desktop\OOP\checkers\bin\Debug\net7.0-windows\Checkers.deps.json
+C:\Users\Xom41k\Desktop\OOP\checkers\bin\Debug\net7.0-windows\Checkers.runtimeconfig.json
+C:\Users\Xom41k\Desktop\OOP\checkers\bin\Debug\net7.0-windows\Checkers.dll
+C:\Users\Xom41k\Desktop\OOP\checkers\bin\Debug\net7.0-windows\Checkers.pdb
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\Board.baml
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\BoardCell.baml
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\Board.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\BoardCell.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\BoardPiece.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\MainMenu.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers_MarkupCompile.cache
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers_MarkupCompile.lref
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\BoardPiece.baml
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Controls\MainMenu.baml
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.g.resources
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfoInputs.cache
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfo.cs
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.dll
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\refint\Checkers.dll
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.pdb
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\Checkers.genruntimeconfig.cache
+C:\Users\Xom41k\Desktop\OOP\checkers\obj\Debug\net7.0-windows\ref\Checkers.dll
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\bin\Debug\net7.0-windows\Checkers.exe
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\bin\Debug\net7.0-windows\Checkers.deps.json
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\bin\Debug\net7.0-windows\Checkers.runtimeconfig.json
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\bin\Debug\net7.0-windows\Checkers.dll
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\bin\Debug\net7.0-windows\Checkers.pdb
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\Board.baml
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\BoardCell.baml
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\Board.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\BoardCell.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\BoardPiece.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\MainMenu.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers_MarkupCompile.cache
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers_MarkupCompile.lref
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\BoardPiece.baml
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\MainMenu.baml
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.g.resources
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfoInputs.cache
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfo.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.dll
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\refint\Checkers.dll
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.pdb
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Checkers.genruntimeconfig.cache
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\ref\Checkers.dll
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\IPWindow.g.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\Controls\IPWindow.baml

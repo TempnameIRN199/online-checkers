@@ -1,0 +1,20 @@
+﻿Checkers
+
+
+winexe
+C#
+.cs
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\obj\Debug\net7.0-windows\
+Checkers
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\vitya\OneDrive\Рабочий стол\checkers\App.xaml
+6-19259719
+
+19-1332060641
+198-1448991843
+Controls\Board.xaml;Controls\BoardCell.xaml;Controls\BoardPiece.xaml;Controls\IPWindow.xaml;Controls\MainMenu.xaml;MainWindow.xaml;
+
+False
+

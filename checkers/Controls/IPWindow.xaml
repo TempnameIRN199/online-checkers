@@ -1,0 +1,23 @@
+﻿<Window x:Class="Checkers.Controls.IPWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Checkers.Controls"
+        mc:Ignorable="d"
+        Title="IPWindow" Height="350" Width="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <TextBox x:Name="IPBox" Margin="5" Text="" HorizontalAlignment="Center"
+         VerticalAlignment="Bottom" Width="150" Height="40"/>
+            <TextBox x:Name="PortBox" Margin="5" Text="" HorizontalAlignment="Center"
+         VerticalAlignment="Bottom" Width="150" Height="40"/>
+        </StackPanel>
+        <Button x:Name="ConnectButton" Margin="5" Grid.Row="1" Content="Connect"
+                HorizontalAlignment="Center" VerticalAlignment="Top" Width="150" Height="40"/>
+    </Grid>
+</Window>
